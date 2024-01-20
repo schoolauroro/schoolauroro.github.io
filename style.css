@@ -1,0 +1,13 @@
+.navbar ul{
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+  overflow: hidden;
+}
+.navbar a{
+  text-decoration: none;
+  text-align: center;
+}
+.navbar li{
+  float: left;
+}  
