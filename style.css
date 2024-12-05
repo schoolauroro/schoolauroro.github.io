@@ -3,6 +3,22 @@
   src: url(ubuntu.ttf);
     }
 
+h1 {
+  font-family: "Ubuntu";
+}
+
+h2 {
+  font-family: "Ubuntu";
+}
+
+h3 {
+  font-family: "Ubuntu";
+}
+
+p {
+  font-family: "Ubuntu";
+}
+
 main{
   margin: 17px;
 }
